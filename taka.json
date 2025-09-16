@@ -1,4 +1,3 @@
-
 {
 "spider":"https://13826.kstore.vip/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a",
 "wallpaper":"https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
@@ -61,3 +60,4 @@
 {"name":"♻️毛驴点击","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]}
 ]
 }
+
