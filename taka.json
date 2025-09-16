@@ -1,3 +1,4 @@
+
 {
 "spider":"https://13826.kstore.vip/logo.png;md5;d4be9b4c1fc2a46911fb45726b8f109a",
 "wallpaper":"https://xn--4kq62z5rby2qupqba63sb41h.999888987.xyz/",
@@ -10,6 +11,8 @@
 {"key":"仓鼠2","name":"🐨仓鼠┃小米","quickSearch":0,"searchable":1,"type":3,"api":"csp_AppQi","ext":"lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsEMYaTrPKBtx3YUMTA+XHh7FPLmLfqp6gWseDzGVsgesALIba2gHVzuE75Sx1II8A"},
 {"key":"猪猪","name":"🐷小猪┃影视","quickSearch":0,"searchable":1,"type":3,"api":"csp_AppGet","ext":"I7L3u12iTGax7pIKDBrd0Czr1qZntIntytqeFyDzetDIICoeNSd3afmMXMhm296uAkb3qZ7kxihetfT8V6h4kw=="},
 {"key":"布蕾","name":"💯布蕾┃影视","quickSearch":0,"searchable":1,"type":3,"api":"csp_AppGet","ext":"KgJbeb5sUfDKrPR2kL+eSnS2/p1vUzgiO9/kBzkhPIPRpqLXPCDc4tA9MXMdokFN"},
+{"key":"娱乐","name":"🎮游戏┃娱乐","quickSearch":0,"searchable":1,"type":3,"api":"https://13826.kstore.vip/zb.py","style":{"type":"rect","ratio":1.333},
+"ext":""},
 {"key":"天天","name":"💯天天┃影视","type":3,"quickSearch":0,"searchable":1,"api":"csp_AppRJ","ext":"vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="},
 {"key":"csp_FreeOk","name":"👌️Frek┃影视","type":3,"quickSearch":0,"api":"csp_FreeOk"},
 {"key":"追忆","name":"🐖追忆┃APP","type":3,"api":"csp_AppSy","quickSearch":0,"ext":"oJGDh+VBrPcwnx19VbSGqy9EkivA/Gc+cSt3uSBzyPzDTmKYyoi6Wr4VgqU2u0Sh7AAuGc4/a7UWVU6BEmFetA=="},
@@ -25,7 +28,10 @@
 {"key":"csp_AppXY","name":"🐸短剧┃影视","type":3,"searchable":1,"quickSearch":0,"api":"csp_AppXY","ext":"https://xvapp.xingya.com.cn"},
 {"key":"csp_LiteApple","name":"🍎苹果┃影视","type":3,"searchable":1,"quickSearch":0,"api":"csp_LiteApple"},
 {"key":"csp_Gz360","name":"🍉瓜子┃影视","type":3,"searchable":1,"quickSearch":0,"api":"csp_Gz360"},
+
 {"key":"厂长","name":"🏭厂长┃影视","type":3,"quickSearch":0,"api":"csp_Czsapp","ext":"https://www.czzymovie.com"},
+{"key":"push_agent","name":"🛴推送┃播放接口免费，请测试完删除处理","type":3,"filterable":0,"changeable":0,"api":"csp_Push","searchable":1,"quickSearch":1,"ext":""}
+],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"影视聚合","type":3,"url":"影视"},
